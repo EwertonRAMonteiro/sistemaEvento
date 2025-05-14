@@ -67,4 +67,5 @@ public class Evento {
     public void setDay(Date day) {
         this.day = day;
     }
+
 }
